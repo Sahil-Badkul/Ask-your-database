@@ -1,6 +1,6 @@
 # Ask Your Orders Data
 
-![App screenshot](assets/screenshots/screenshot.png)
+![App screenshot](assets/preview.png)
 
 A Streamlit app and CLI demo that generates SQL queries for an `orders` table using Google Gemini via the `google-genai` Python SDK.
 
